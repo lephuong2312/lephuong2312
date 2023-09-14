@@ -8,7 +8,7 @@ TYPE html>
 </head>
 <body>
     <div>
-        <h1> Idol người làng trạ toét </h1>
+        <h1> Idol người làng Trạ toét </h1>
     <img src="377222231_325064240060046_8350519873244225326_n.jpg" width="300"/>
     <p>Anh nổi tiếng với danh xưng vua học bổng</p>
     <img src="375766807_1477998489705811_7767277611637826570_n.jpg" width="300"/>
